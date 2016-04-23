@@ -1,3 +1,3 @@
-# cslstyles
-Repository of csl reference styles
-CSL reference styles
+# My csl styles
+My personnal csl reference styles
+
